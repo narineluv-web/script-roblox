@@ -1,2 +1,1 @@
-# script-roblox
-jekdifkfkdkkddldldld
+Lua Script Creator  Steal an Egg Edition local ScreenGui = Instance.new("ScreenGui") local MainFrame = Instance.new("Frame") local Title = Instance.new("TextLabel") local AutoFarmBtn = Instance.new("TextButton") local InfiniteMoneyBtn = Instance.new("TextButton") local SpeedBtn = Instance.new("TextButton") ScreenGui.Parent = game.CoreGui MainFrame.Name = "MainFrame" MainFrame.Parent = ScreenGui MainFrame.BackgroundColor3 = Color3.fromRGB(30, 30, 30) MainFrame.Size = UDim2.new(0, 250, 0, 300) MainFrame.Position = UDim2.new(0.5, 125, 0.5, 150) MainFrame.Active = true MainFrame.Draggable = true Title.Parent = MainFrame Title.Size = UDim2.new(1, 0, 0, 40)
